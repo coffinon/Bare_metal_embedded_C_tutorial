@@ -10,4 +10,5 @@ I only use a few header files like :
 - core_cm3.h
 - stm32f103xb.h
 - system_stm32f1xx.h
+
 So only essentials - no HAL at all :)
