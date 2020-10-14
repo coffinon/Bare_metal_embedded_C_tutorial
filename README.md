@@ -1,6 +1,7 @@
 # Bare_metal_embedded_C_tutorial
 
 Board -> Nucleo F103RB
+
 IDE -> STM32CubeIDE (clear - without CubeMX addon and HAL or StdPeriph libraries)
 
 I only use a few header files like :
